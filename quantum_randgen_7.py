@@ -6,6 +6,33 @@ Ukupno kombinacija 15380937 (7 brojeva od 1 do 39).
 Koristi kvantni generator slucajnih brojeva baziran na Qiskit biblioteci.
 """
 
+"""
+| Paket                       | Verzija |
+| --------------------------- | ------- |
+| **python**                  | 3.11.13 |
+| **qiskit**                  | 1.4.4   |
+| **qiskit-machine-learning** | 0.8.3   |
+| **qiskit-ibm-runtime**      | 0.43.0  |
+| **macOS**                   | Tahos   |
+| **Apple**                   | M1      |
+"""
+
+"""
+https://github.com/forsing
+https://github.com/forsing?tab=repositories
+"""
+
+"""
+Loto Skraceni Sistemi
+https://www.lotoss.info
+ABBREVIATED LOTTO SYSTEMS
+"""
+
+"""
+svih 4510 izvlacenja
+30.07.1985.- 11.11.2025.
+"""
+
 from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister, transpile
 
 from qiskit_aer import Aer
